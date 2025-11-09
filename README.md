@@ -31,8 +31,6 @@
        src="https://img.shields.io/badge/Arquitectura-x86-8A7AFF?style=for-the-badge&labelColor=3B2E7E&logo=intel&logoColor=white">
   <img alt="Sistema" 
        src="https://img.shields.io/badge/SO-MS--DOS-9E8CFF?style=for-the-badge&labelColor=2E2B5F&logo=windows-terminal&logoColor=white">
-  <img alt="Tipo" 
-       src="https://img.shields.io/badge/Proyecto-Acad%C3%A9mico%20EMU8086-63C7FF?style=for-the-badge&labelColor=0F3E56&logo=gradle&logoColor=white">
 
 </p>
 
