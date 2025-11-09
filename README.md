@@ -4,27 +4,29 @@
   <img width="561" height="381" alt="Portada del proyecto" src="https://github.com/user-attachments/assets/5ecf265a-b88c-45b6-a0ba-1d3c0c68245a" />
 </p>
 
-<div align="center">
-  <table style="border-collapse: collapse; border: none;">
-    <tr>
-      <td style="background: linear-gradient(135deg, #8ec5fc 0%, #e0c3fc 100%); color: #000; padding: 15px 20px; border-radius: 10px; text-align: center; font-weight: bold;">
-        📘 <br> Curso<br><span style="font-weight:normal;">Arquitectura del Computador</span>
-      </td>
-      <td style="background: linear-gradient(135deg, #a1c4fd 0%, #c2e9fb 100%); color: #000; padding: 15px 20px; border-radius: 10px; text-align: center; font-weight: bold;">
-        👩‍💻 <br> Estudiante<br><span style="font-weight:normal;">Astrid Carolina Quisel Urrutia</span>
-      </td>
-      <td style="background: linear-gradient(135deg, #d4fc79 0%, #96e6a1 100%); color: #000; padding: 15px 20px; border-radius: 10px; text-align: center; font-weight: bold;">
-        👨‍🏫 <br> Docente<br><span style="font-weight:normal;">Jorge G. Moreno López</span>
-      </td>
-      <td style="background: linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%); color: #000; padding: 15px 20px; border-radius: 10px; text-align: center; font-weight: bold;">
-        🏫 <br> Institución<br><span style="font-weight:normal;">Universidad Continental</span>
-      </td>
-      <td style="background: linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%); color: #000; padding: 15px 20px; border-radius: 10px; text-align: center; font-weight: bold;">
-        📅 <br> Año<br><span style="font-weight:normal;">2025</span>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+
+  <!-- Curso -->
+  <img alt="Curso" 
+       src="https://img.shields.io/badge/Curso-Arquitectura%20del%20Computador-4C9CFF?style=for-the-badge&labelColor=1F3B73">
+
+  <!-- Estudiante -->
+  <img alt="Estudiante" 
+       src="https://img.shields.io/badge/Estudiante-Astrid%20Carolina%20Quisel%20Urrutia-8A7AFF?style=for-the-badge&labelColor=3B2E7E">
+
+  <!-- Docente -->
+  <img alt="Docente" 
+       src="https://img.shields.io/badge/Docente-Jorge%20G.%20Moreno%20L%C3%B3pez-9E8CFF?style=for-the-badge&labelColor=2E2B5F">
+
+  <!-- Institución -->
+  <img alt="Institución" 
+       src="https://img.shields.io/badge/Instituci%C3%B3n-Universidad%20Continental-63C7FF?style=for-the-badge&labelColor=0F3E56">
+
+  <!-- Año -->
+  <img alt="Año" 
+       src="https://img.shields.io/badge/A%C3%B1o-2025-BB86FC?style=for-the-badge&labelColor=4B306A">
+
+</p>
 
 ---
 
