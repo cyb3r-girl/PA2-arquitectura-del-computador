@@ -103,7 +103,7 @@ Ejecuta un bucle que reduce `a` y aumenta `b`, luego intercambia sus valores si 
    
 ---
 
-## 👩‍💻 Autor
+## 👩🏻‍💻 Autor
 **Astrid Carolina Quisel Urrutia**  
 Estudiante de Ingeniería de Sistemas e Informática  
 Universidad Continental  
