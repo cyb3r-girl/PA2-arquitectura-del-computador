@@ -6,23 +6,14 @@
 
 <p align="center">
 
-  <!-- Curso -->
   <img alt="Curso" 
        src="https://img.shields.io/badge/Curso-Arquitectura%20del%20Computador-4C9CFF?style=for-the-badge&labelColor=1F3B73">
-
-  <!-- Estudiante -->
   <img alt="Estudiante" 
        src="https://img.shields.io/badge/Estudiante-Astrid%20Carolina%20Quisel%20Urrutia-8A7AFF?style=for-the-badge&labelColor=3B2E7E">
-
-  <!-- Docente -->
   <img alt="Docente" 
        src="https://img.shields.io/badge/Docente-Jorge%20G.%20Moreno%20L%C3%B3pez-9E8CFF?style=for-the-badge&labelColor=2E2B5F">
-
-  <!-- Institución -->
   <img alt="Institución" 
        src="https://img.shields.io/badge/Instituci%C3%B3n-Universidad%20Continental-63C7FF?style=for-the-badge&labelColor=0F3E56">
-
-  <!-- Año -->
   <img alt="Año" 
        src="https://img.shields.io/badge/A%C3%B1o-2025-BB86FC?style=for-the-badge&labelColor=4B306A">
 
