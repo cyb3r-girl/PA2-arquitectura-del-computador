@@ -1,0 +1,40 @@
+.model small
+.stack 100h
+.data
+    n    dw 5
+    fant dw 1
+    f    dw 1
+    i    dw 2
+    faux dw 0
+.code
+
+main proc
+    mov  ax, @data
+    mov  ds, ax
+
+inicio_while:
+    mov  ax, i
+    cmp  ax, n
+    jg   fin_while         ; si i > n, salta al final
+
+;--- cuerpo del while ---
+    mov  ax, f
+    mov  faux, ax          ; faux = f
+
+    mov  ax, f
+    add  ax, fant          ; f = f + fant
+    mov  f,  ax
+
+    mov  ax, faux
+    mov  fant, ax          ; fant = faux
+
+    inc  i                 ; i = i + 1
+    jmp  inicio_while      ; vuelve al inicio
+
+fin_while:
+    mov  ax, 4C00h
+    int  21h
+    
+main endp
+
+end  main
