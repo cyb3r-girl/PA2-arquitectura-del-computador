@@ -22,17 +22,17 @@
 
 <p align="center">
 
-  <!-- ⚙️ Tecnologías y herramientas -->
+  <!-- ⚙️ Tecnologías y entorno -->
   <img alt="Lenguaje" 
        src="https://img.shields.io/badge/Lenguaje-ASM%20x86-6A5ACD?style=for-the-badge&labelColor=2E2B5F&logo=assemblyscript&logoColor=white">
-  <img alt="Entorno" 
+  <img alt="Simulador" 
        src="https://img.shields.io/badge/Simulador-EMU8086-4C9CFF?style=for-the-badge&labelColor=1F3B73&logo=windows95&logoColor=white">
   <img alt="Arquitectura" 
        src="https://img.shields.io/badge/Arquitectura-x86-8A7AFF?style=for-the-badge&labelColor=3B2E7E&logo=intel&logoColor=white">
   <img alt="Sistema" 
        src="https://img.shields.io/badge/SO-MS--DOS-9E8CFF?style=for-the-badge&labelColor=2E2B5F&logo=windows-terminal&logoColor=white">
-  <img alt="IDE" 
-       src="https://img.shields.io/badge/Editor-Visual%20Studio%20Code-63C7FF?style=for-the-badge&labelColor=0F3E56&logo=visual-studio-code&logoColor=white">
+  <img alt="Tipo" 
+       src="https://img.shields.io/badge/Proyecto-Acad%C3%A9mico%20EMU8086-63C7FF?style=for-the-badge&labelColor=0F3E56&logo=gradle&logoColor=white">
 
 </p>
 
