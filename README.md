@@ -6,6 +6,7 @@
 
 <p align="center">
 
+  <!-- 🏫 Información académica -->
   <img alt="Curso" 
        src="https://img.shields.io/badge/Curso-Arquitectura%20del%20Computador-4C9CFF?style=for-the-badge&labelColor=1F3B73">
   <img alt="Estudiante" 
@@ -16,6 +17,22 @@
        src="https://img.shields.io/badge/Instituci%C3%B3n-Universidad%20Continental-63C7FF?style=for-the-badge&labelColor=0F3E56">
   <img alt="Año" 
        src="https://img.shields.io/badge/A%C3%B1o-2025-BB86FC?style=for-the-badge&labelColor=4B306A">
+
+</p>
+
+<p align="center">
+
+  <!-- ⚙️ Tecnologías y herramientas -->
+  <img alt="Lenguaje" 
+       src="https://img.shields.io/badge/Lenguaje-ASM%20x86-6A5ACD?style=for-the-badge&labelColor=2E2B5F&logo=assemblyscript&logoColor=white">
+  <img alt="Entorno" 
+       src="https://img.shields.io/badge/Simulador-EMU8086-4C9CFF?style=for-the-badge&labelColor=1F3B73&logo=windows95&logoColor=white">
+  <img alt="Arquitectura" 
+       src="https://img.shields.io/badge/Arquitectura-x86-8A7AFF?style=for-the-badge&labelColor=3B2E7E&logo=intel&logoColor=white">
+  <img alt="Sistema" 
+       src="https://img.shields.io/badge/SO-MS--DOS-9E8CFF?style=for-the-badge&labelColor=2E2B5F&logo=windows-terminal&logoColor=white">
+  <img alt="IDE" 
+       src="https://img.shields.io/badge/Editor-Visual%20Studio%20Code-63C7FF?style=for-the-badge&labelColor=0F3E56&logo=visual-studio-code&logoColor=white">
 
 </p>
 
