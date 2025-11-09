@@ -1,11 +1,32 @@
 # 🧮 Producto Académico N° 2 – Arquitectura del Computador
-<img width="561" height="381" alt="desktop_9e96bf86-8a18-4d58-94f6-979735af1970" src="https://github.com/user-attachments/assets/5ecf265a-b88c-45b6-a0ba-1d3c0c68245a" />
 
-**Curso:** Arquitectura del Computador  
-**Estudiante:** Astrid Carolina Quisel Urrutia  
-**Docente:** Jorge G. Moreno López  
-**Institución:** Universidad Continental  
-**Año:** 2025  
+<p align="center">
+  <img width="561" height="381" alt="Portada del proyecto" src="https://github.com/user-attachments/assets/5ecf265a-b88c-45b6-a0ba-1d3c0c68245a" />
+</p>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="200" style="background-color:#a8d8ff; border-radius:8px; padding:10px;">
+<b>📘 Curso:</b><br>Arquitectura del Computador
+</td>
+<td align="center" width="250" style="background-color:#c2a8ff; border-radius:8px; padding:10px;">
+<b>👩‍💻 Estudiante:</b><br>Astrid Carolina Quisel Urrutia
+</td>
+<td align="center" width="250" style="background-color:#d7b5ff; border-radius:8px; padding:10px;">
+<b>👨‍🏫 Docente:</b><br>Jorge G. Moreno López
+</td>
+<td align="center" width="250" style="background-color:#b1f1ff; border-radius:8px; padding:10px;">
+<b>🏫 Institución:</b><br>Universidad Continental
+</td>
+<td align="center" width="150" style="background-color:#9ee8ff; border-radius:8px; padding:10px;">
+<b>📅 Año:</b><br>2025
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
