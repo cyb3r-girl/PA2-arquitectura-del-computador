@@ -5,27 +5,25 @@
 </p>
 
 <div align="center">
-
-<table>
-<tr>
-<td align="center" width="200" style="background-color:#a8d8ff; border-radius:8px; padding:10px;">
-<b>📘 Curso:</b><br>Arquitectura del Computador
-</td>
-<td align="center" width="250" style="background-color:#c2a8ff; border-radius:8px; padding:10px;">
-<b>👩‍💻 Estudiante:</b><br>Astrid Carolina Quisel Urrutia
-</td>
-<td align="center" width="250" style="background-color:#d7b5ff; border-radius:8px; padding:10px;">
-<b>👨‍🏫 Docente:</b><br>Jorge G. Moreno López
-</td>
-<td align="center" width="250" style="background-color:#b1f1ff; border-radius:8px; padding:10px;">
-<b>🏫 Institución:</b><br>Universidad Continental
-</td>
-<td align="center" width="150" style="background-color:#9ee8ff; border-radius:8px; padding:10px;">
-<b>📅 Año:</b><br>2025
-</td>
-</tr>
-</table>
-
+  <table style="border-collapse: collapse; border: none;">
+    <tr>
+      <td style="background: linear-gradient(135deg, #8ec5fc 0%, #e0c3fc 100%); color: #000; padding: 15px 20px; border-radius: 10px; text-align: center; font-weight: bold;">
+        📘 <br> Curso<br><span style="font-weight:normal;">Arquitectura del Computador</span>
+      </td>
+      <td style="background: linear-gradient(135deg, #a1c4fd 0%, #c2e9fb 100%); color: #000; padding: 15px 20px; border-radius: 10px; text-align: center; font-weight: bold;">
+        👩‍💻 <br> Estudiante<br><span style="font-weight:normal;">Astrid Carolina Quisel Urrutia</span>
+      </td>
+      <td style="background: linear-gradient(135deg, #d4fc79 0%, #96e6a1 100%); color: #000; padding: 15px 20px; border-radius: 10px; text-align: center; font-weight: bold;">
+        👨‍🏫 <br> Docente<br><span style="font-weight:normal;">Jorge G. Moreno López</span>
+      </td>
+      <td style="background: linear-gradient(135deg, #84fab0 0%, #8fd3f4 100%); color: #000; padding: 15px 20px; border-radius: 10px; text-align: center; font-weight: bold;">
+        🏫 <br> Institución<br><span style="font-weight:normal;">Universidad Continental</span>
+      </td>
+      <td style="background: linear-gradient(135deg, #a18cd1 0%, #fbc2eb 100%); color: #000; padding: 15px 20px; border-radius: 10px; text-align: center; font-weight: bold;">
+        📅 <br> Año<br><span style="font-weight:normal;">2025</span>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
