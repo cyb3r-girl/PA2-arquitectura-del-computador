@@ -1,0 +1,39 @@
+.model small
+.stack 100h
+.data
+    a   dw 5
+    b   dw 15
+    mcd dw ?
+.code
+
+main proc
+    mov  ax, @data
+    mov  ds, ax
+
+inicio_while:
+    mov  ax, a
+    cmp  ax, b
+    je   fin_while           ; si a == b, sale del bucle
+    jge  es_mayor            ; si a >= b, entra al bloque a > b
+
+;--- else: a < b ---
+    mov  bx, b
+    sub  bx, ax              ; b = b - a
+    mov  b,  bx
+    jmp  inicio_while        ; vuelve al inicio del while
+
+;--- a > b ---
+es_mayor:
+    sub  ax, b               ; a = a - b
+    mov  a,  ax
+    jmp  inicio_while        ; vuelve al inicio del while
+
+fin_while:
+    mov  ax, a
+    mov  mcd, ax             ; mcd = a
+    mov  ax, 4C00h
+    int  21h
+    
+main endp
+
+end  main
